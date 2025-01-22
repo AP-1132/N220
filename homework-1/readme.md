@@ -8,15 +8,15 @@ The difference between websites and web apps is that websites are primarily focu
 
 VS Code is the application we will be using to code for this course. There are three extensions that are needed for the course:
 
--Prettier: This extension formats your code correctly
--Live Server: This extension allows you to launch a live server
--Auto Rename Tag: When you rename a tag, this extension will automatically rename the paired tag.
+- Prettier: This extension formats your code correctly
+- Live Server: This extension allows you to launch a live server
+- Auto Rename Tag: When you rename a tag, this extension will automatically rename the paired tag.
 
 There are also two other extension that are not required but can be very helpful:
 
--Code Spell Checker: This extension will spell check your code
+- Code Spell Checker: This extension will spell check your code
 
--vscode-pets: This extension adds pets into VS Code for moral support
+- vscode-pets: This extension adds pets into VS Code for moral support
 
 ### Version Control, Git, & GitHub
 

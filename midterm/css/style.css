@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+ul {
+  list-style-position: inside;
+
+  li {
+    margin-bottom: 10px;
+    background-color: #000;
+    border-radius: 5px;
+    width: max-content;
+    padding: 6px;
+    margin-left: 50px;
+    color: #fff;
+
+    button + span {
+      margin-left: 5px;
+    }
+    /* Select button that comes at the end of a li after text content */
+    button:last-child {
+      margin-left: 5px;
+    }
+  }
+}
+
+button {
+  padding: 1px 5px;
+}
+
+table {
+  margin-left: 50px;
+  background-color: #000;
+  color: #fff;
+  width: 1000px;
+}
